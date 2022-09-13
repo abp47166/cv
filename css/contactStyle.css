@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: #22577a;
+    font-family: Audiowide;
+}
+
+.section1 {
+    background-color: rgb(207, 255, 239);
+    border-radius: 50%;
+    font-family: Combo;
+}
+
+.float{
+    width: 50%;
+    float: left;
+}
+
+form {
+    margin: 0 auto;
+    width:250px;
+}
+
+input {
+    margin-bottom: 5px;
+}
+
+.textarea {
+    margin: 1px;
+    float: left;
+}
+
+.bottom {
+    background-color:#22577a;
+    color:#57cc99;
+    font-family: Audiowide;
+    font-size: 10px;
+    border: dotted;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
